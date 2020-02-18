@@ -1,9 +1,11 @@
-COde to implement CR1 (Change Request)
+1- COde to implement CR1 (Change Request)
 
-Change for changing stash
+2- Change for changing stash
 
-change to local master to check push
+3- change to local master to check push
 
-change by teammate on remote repo
+4- change by teammate on remote repo
 
-change to test rebase on remote repo by team mate
+5- change to test rebase on remote repo by team mate
+
+6- change to test rebase on my local repo
