@@ -6,4 +6,7 @@ New CHANGE
 
 change to fix bug 1
 
+
 change by team mate in master (to check 3 way merge)
+
+Change to fix bug 2
